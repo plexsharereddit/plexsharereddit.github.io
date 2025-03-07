@@ -1,5 +1,5 @@
 # Plex Shares Reddit
-Welcome to PlexShares
+Welcome to PlexShares,Reddit plexshares,
 r/plexshares was the biggest Reddit community where you could choose a plex provider. The r/plexshares Reddit has been closed on 05/19/2022.
 
 Below you can find a list of providers.
